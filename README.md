@@ -37,9 +37,22 @@ PSI Data Systems - Senior Software Engineer ( July 2000 - Feb 2003 )
 
 ## Educational Qualifications
 <pre>
-Master of Computer Applications - Pondicherry Engineering College, Pondicherry University, Graduated with Academic Honors (First Class), India. (2000). 
-Post Graduate Diploma in Computer Applications - Pondicherry Engineering College, Pondicherry University, Graduated with Academic Honors (First Class), India. (1997).
-Bachelor of Physics - Arignar Anna Govt. Arts College, Pondicherry, Pondicherry University, Graduated with Academic Honors (First Class), India. (1996)
+Master of Computer Applications 
+  - Pondicherry Engineering College
+  - Pondicherry University, India
+  - Graduated with Academic Honors (First Class)
+  - in the year 2000 
+Post Graduate Diploma in Computer Applications 
+  - Pondicherry Engineering College
+  - Pondicherry University, India
+  - Graduated with Academic Honors (First Class), 
+  - in the year 1997
+Bachelor of Physics 
+  - Arignar Anna Govt Arts College 
+  - Pondicherry
+  - Pondicherry University, India
+  - Graduated with Academic Honors (First Class) 
+  - in the year 1996
 </pre>
 
 ## Certifications 
