@@ -125,6 +125,7 @@ Bachelor of Physics
 - AWS Solution Architect (Multiple batches) for Amdocs, IBM
 - Advanced Chef Training ( Multiple batches ) for GAP 
 - AZ303 - Azure Solution Architect for IBM, India 
+- Qt/QML GUI Programming with Python for Bosch, Bengaluru
 - <b>DevOps - Docker, Kubernetes, Ansible/Ansible Tower, Terraform for IBM, US</b>
 - DevOps - Docker, Ansible Tower, Jenkins, Git/GitHub, XebiaLabs XLR & XLD for Bank of America, India 
 - DevOps - Ansible Tower, Horizon, Jenkins for Wellsfargo, India 
@@ -149,7 +150,7 @@ Bachelor of Physics
 - Test Driven Development (TDD) – Java for Amdocs, Pune/Gurgaon/Cyprus/Penang (150+ Batches) 
 - Test Driven Development (TDD) – C#(.Net) for Bosch Bengaluru
 - Refactoring training for Amdocs, Gurgaon. 
-- Design Patterns training for Amdocs, Gurgaon/Pune. 
+- Design Patterns training for Amdocs, Gurgaon/Pune
 - Qt/QML GUI Programming with C++ for KPIT, Bangalore/Pune (Multiple batches) 
 - Advanced C, POSIX, GDB Debugging Training for Cisco, Bangalore
 - Advanced C++ - Qt Programming with Raspberry Pi for KPIT, Bangalore
