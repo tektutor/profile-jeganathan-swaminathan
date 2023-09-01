@@ -23,3 +23,30 @@ http://www.tektutor.org/blog/
 - GUI Programming - Video Course
 - Getting Started with C++17 Programming - Video Course
 </pre>
+
+## Profession Experience
+<pre>
+TekTutor - Freelance Consultant & Corporate Trainer - ( Nov 2012 to Till date )
+AMD - MTS Software Engineer ( Sep 2007 to Oct 2012 )
+Oracle - Project Leader (Aug 2006 to Sep 2007 ) 
+Siemens (SISL) - Associate Consultant ( Mar 2005 to Aug 2007 ) 
+Genisys Software - Consultant ( Mar 2004 to Feb 2005 )
+Global Edge Software Pvt Ltd -  Senior Software Engineer ( Mar 2003 to Mar 2004 )
+PSI Data Systems - Senior Software Engineer ( July 2000 - Feb 2003 )
+</pre>
+
+## Educational Qualifications
+<pre>
+Master of Computer Applications - Pondicherry Engineering College, Pondicherry University, Graduated with Academic Honors (First Class), India. (2000). 
+Post Graduate Diploma in Computer Applications - Pondicherry Engineering College, Pondicherry University, Graduated with Academic Honors (First Class), India. (1997).
+Bachelor of Physics - Arignar Anna Govt. Arts College, Pondicherry, Pondicherry University, Graduated with Academic Honors (First Class), India. (1996)
+</pre>
+
+## Certifications 
+<pre>
+Sun Certified Java Programmer (SCJP) 
+Certified SCRUM Master (CSM) 
+Certified SCRUM Product Owner (CSPO) 
+Certified SCRUM Developer (CSD) 
+Certified SCRUM Professional (CSP) 
+</pre>
