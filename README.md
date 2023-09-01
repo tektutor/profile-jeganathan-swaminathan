@@ -59,9 +59,9 @@ Bachelor of Physics
 
 ## Certifications 
 <pre>
-Sun Certified Java Programmer (SCJP) 
-Certified SCRUM Master (CSM) 
-Certified SCRUM Product Owner (CSPO) 
-Certified SCRUM Developer (CSD) 
-Certified SCRUM Professional (CSP) 
+- Sun Certified Java Programmer (SCJP) 
+- Certified SCRUM Master (CSM) 
+- Certified SCRUM Product Owner (CSPO) 
+- Certified SCRUM Developer (CSD) 
+- Certified SCRUM Professional (CSP) 
 </pre>
