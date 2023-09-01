@@ -102,7 +102,7 @@ Bachelor of Physics
 - Version Control - Git/GitHub
 - Build Tools - Make, Maven & Gradle
 - Debug Tools - GDB
-- Programming Languages - C/C++,Java,Python,C#,Scala,Go lang,NodeJS,AngularJS & TypeScript
+- Programming Languages - Java,Python,C#,Scala,Go lang,NodeJS,AngularJS,TypeScript,C/C++ & Visual C++(MFC)
 - Testing Frameworks - JUnit/TestNG,NUnit,Moq,Mockito,PowerMock,Google Test, Google Mock, Jasmine/Karma & PyTest
 - TDD/BDD - Java,C/C++,C#,Python & Go lang
 - GUI Frameworks - Qt/QML, Gtk
