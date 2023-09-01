@@ -87,7 +87,7 @@ Bachelor of Physics
 - Apache Spark with AWS Databricks for Amdocs 
 - DevOps with Ansible & Docker for Sapient, BMC & Orange
 - DevOps with Ansible, Docker, Kubernetes for Amdocs, Pune
-- BDD/ATDD training for HCL, Chennai with JUnit & Mockito(Java), NUnit & Moq(C#) and Jasmine & Karma (Angular 2.0, Node JS & MongoDB ) 
+- BDD/ATDD training for HCL-JUnit & Mockito(Java),NUnit & Moq(C#) and Jasmine & Karma (Angular 2.0, NodeJS & MongoDB) 
 - Advanced Ansible Training for Amdocs, India. 
 - Azure Data Engineer & Designing an Azure Data Solution for Amdocs, India 
 - Basic AWS Cloud Computing for Amdocs, India.   
