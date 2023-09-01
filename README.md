@@ -12,10 +12,40 @@
 https://in.linkedin.com/in/jeganathan-swaminathan-2a6a6a6 
 
 ## My YouTube Channel 
-https://www.youtube.com/user/BulletJegan/videos 
+https://www.youtube.com/@JeganathanSwaminathan/videos
 
 ## My Blogs
-http://www.tektutor.org/blog/ 
+<pre>
+https://medium.com/@jegan_50867/installing-ansible-tower-awx-e46d5231357d
+
+https://medium.com/@jegan_50867/kubernetes-lightweight-developer-setup-using-rancher-k3d-a3a94e9b5eb4
+
+https://medium.com/tektutor/kubernetes-3-node-cluster-using-k3s-with-docker-e325cc82fd50
+
+https://medium.com/@jegan_50867/kubernetes-3-node-cluster-using-k3s-d28b2c09e2f7
+
+https://medium.com/@jegan_50867/docker-commands-ba19387383b4
+
+https://medium.com/@jegan_50867/openshift-secrets-and-configmap-223f1815bf8a
+
+https://medium.com/@jegan_50867/redhat-openshift-ingress-e91f27a35773
+
+https://medium.com/@jegan_50867/docker-overview-be840f727b3
+
+https://medium.com/tektutor/ci-cd-with-maven-github-docker-jenkins-aca28c252fec
+
+https://medium.com/tektutor/using-metallb-loadbalancer-with-bare-metal-openshift-onprem-4230944bfa35
+
+https://medium.com/tektutor/container-engine-vs-container-runtime-667a99042f3
+
+https://medium.com/tektutor/deploying-stateful-applications-in-kubernetes-8ffd46920b55
+
+https://medium.com/tektutor/using-nginx-ingress-controller-in-kubernetes-bare-metal-setup-890eb4e7772
+
+https://medium.com/tektutor/using-metal-lb-on-a-bare-metal-onprem-kubernetes-setup-6d036af1d20c
+
+https://medium.com/tektutor/kubernetes-3-node-cluster-setup-50943378be41
+</pre>
 
 ## Authored
 <pre>
