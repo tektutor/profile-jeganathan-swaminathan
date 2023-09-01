@@ -122,10 +122,10 @@ Bachelor of Physics
 - AWS Solution Architect (Multiple batches) for Amdocs, IBM
 - Advanced Chef Training ( Multiple batches ) for GAP 
 - AZ303 - Azure Solution Architect for IBM, India 
-- DevOps - Docker, Kubernetes, Ansible/Ansible Tower, Terraform for IBM, US. 
+- <b>DevOps - Docker, Kubernetes, Ansible/Ansible Tower, Terraform for IBM, US</b>
 - DevOps - Docker, Ansible Tower, Jenkins, Git/GitHub, XebiaLabs XLR & XLD for Bank of America, India 
 - DevOps - Ansible Tower, Horizon, Jenkins for Wellsfargo, India 
-- MicroServices using SpringBoot for Amdocs, Pune, Gurgaon & Cyprus ( Multiple batches )
+- <b>MicroServices using SpringBoot for Amdocs, Pune, Gurgaon & Cyprus (Multiple batches)</b>
 - Chef Training - public workshop, Chennai (Multiple batches) 
 - Apache Kafka & Confluent Kafka for Amdocs Pune/Gurgaon/Cyprus 
 - Unit Testing Automation with JUnit, Karate & Mockito Frameworks multiple batches for Amdocs 
