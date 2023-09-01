@@ -42,11 +42,13 @@ Master of Computer Applications
   - Pondicherry University, India
   - Graduated with Academic Honors (First Class)
   - in the year 2000 
+  
 Post Graduate Diploma in Computer Applications 
   - Pondicherry Engineering College
   - Pondicherry University, India
   - Graduated with Academic Honors (First Class), 
   - in the year 1997
+  
 Bachelor of Physics 
   - Arignar Anna Govt Arts College 
   - Pondicherry
