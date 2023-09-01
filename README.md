@@ -97,6 +97,22 @@ Bachelor of Physics
 - Certified SCRUM Professional (CSP) 
 </pre>
 
+## Skills
+<pre>
+- Version Control - Git/GitHub
+- Build Tools - Make, Maven & Gradle
+- Debug Tools - GDB
+- Programming Languages - C/C++,Java,Python,C#,Scala,Go lang,NodeJS,AngularJS & TypeScript
+- Testing Frameworks - JUnit/TestNG,NUnit,Moq,Mockito,PowerMock,Google Test, Google Mock, Jasmine/Karma & PyTest
+- TDD/BDD - Java,C/C++,C#,Python & Go lang
+- GUI Frameworks - Qt/QML, Gtk
+- Embedded - C/C++, Python
+- Containers - Docker, Podman, Containerd, LXC, runC
+- Container Orchestration Platforms - Docker SWARM, Kubernetes, Red Hat OpenShift
+- Configuration Management Tools - Puppet, Chef, Ansible, Salt/SaltStack
+- CI/CD - Jenkins, CloudBees, XLR/XLD
+</pre>
+
 ## Trainings Conducted
 <pre>
 - <b>Advanced Ansible - Ansible Core, Red Hat Ansible Tower - Bank Of America, Amdocs, Wellsfargo (Multiple batches)</b>
