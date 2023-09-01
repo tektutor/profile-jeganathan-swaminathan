@@ -1,5 +1,4 @@
 ## Jeganathan Swaminathan
-
 <pre>
 - Total 23 years of hands-on Software Development Experience 
 - 11 years of Independent Software Consulting/Training Experience
