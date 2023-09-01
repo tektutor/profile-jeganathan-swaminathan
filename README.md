@@ -99,18 +99,14 @@ Bachelor of Physics
 - Test Driven Development (TDD) – Java for Amdocs, Pune/Gurgaon/Cyprus/Penang (150+ Batches) 
 - Test Driven Development (TDD) – C#(.Net) for Bosch Bengaluru
 - Refactoring training for Amdocs, Gurgaon. 
-- Design Patterns training for Amdocs, Gurgaon. 
- - Qt/QML GUI Programming with C++ for KPIT, Bangalore/Pune (Multiple batches) 
-Conducted TDD with C++, Visual Studio, gtest & gmock – Siemens, Bengaluru Working as an external Consultant for Amdocs, India that involves GoogleTest(gtest), GoogleMock(gmock), JUnit, Mockito, Jenkins, Eclipse, Java, J2EE, C & C++ Projects. Conducted Google C/C++ Test Framework Training for Amdocs, Pune. 
-Conducted Google C/C++ Mock Framework Training for Amdocs, Pune. 
-Conducted Design Patterns in Java for Amdocs, Pune. 
-Conducted JUnit & Mockito training for Amdocs, Pune. 
-Conducted Code Refactoring & Clean Code Practices – C/C++ for Amdocs, Pune. Conducted Test Driven Development Training for C/C++ Developers @ Amdocs, Pune. Conducted Test Driven Development Training for Java Developers @ Amdocs, Pune. Conducted Clean code practices training for Amdocs, Pune. 
-Conducted Static Analysis Tools for C, C++ & Java for Amdocs, Pune. 
-Conducted Advanced C, POSIX, GDB Debugging Training for Cisco, Bangalore. Conducted Advanced C++ - Qt Programming with Raspberry Pi for KPIT, Bangalore. Conducted Unix Internals Training for KPIT, Bangalore. 
-Conducted Advanced C++ Training for Philips (TPVision), Bangalore. 
-Conducted Java Design Patterns for Philips, Bangalore. 
-Conducted POSIX – Multi-thread Programming Training for Philips (TPVision), Bangalore. Conducted QtQuick & QML Training for CMC, Hyderabad 
-Conducted Linux Device Drivers Training for SpringPeople, Bangalore. 
-
+- Design Patterns training for Amdocs, Gurgaon/Pune. 
+- Qt/QML GUI Programming with C++ for KPIT, Bangalore/Pune (Multiple batches) 
+- Advanced C, POSIX, GDB Debugging Training for Cisco, Bangalore
+- Advanced C++ - Qt Programming with Raspberry Pi for KPIT, Bangalore
+- Unix Internals Training for KPIT, Bangalore. 
+- Advanced C++ Training for Philips (TPVision), Bangalore. 
+- Java Design Patterns for Philips, Bangalore. 
+- POSIX – Multi-thread Programming Training for Philips (TPVision), Bangalore
+- QtQuick & QML Training for CMC, Hyderabad 
+- Linux Device Drivers Training for SpringPeople, Bangalore. 
 </pre>
