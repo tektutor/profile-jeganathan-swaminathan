@@ -17,7 +17,7 @@ https://in.linkedin.com/in/jeganathan-swaminathan-2a6a6a6
 https://www.youtube.com/@JeganathanSwaminathan/videos
 
 ## My Blogs
-<pre>
+
 https://medium.com/@jegan_50867/installing-ansible-tower-awx-e46d5231357d
 
 https://medium.com/@jegan_50867/kubernetes-lightweight-developer-setup-using-rancher-k3d-a3a94e9b5eb4
@@ -47,7 +47,6 @@ https://medium.com/tektutor/using-nginx-ingress-controller-in-kubernetes-bare-me
 https://medium.com/tektutor/using-metal-lb-on-a-bare-metal-onprem-kubernetes-setup-6d036af1d20c
 
 https://medium.com/tektutor/kubernetes-3-node-cluster-setup-50943378be41
-</pre>
 
 ## Authored
 <pre>
