@@ -68,9 +68,9 @@ Bachelor of Physics
 
 ## Trainings Conducted
 <pre>
-- Advanced Ansible - Ansible Core, Red Hat Ansible Tower, Jenkins - Bank Of America, Amdocs, Wellsfargo (Multiple batches)
+- <b>Advanced Ansible - Ansible Core, Red Hat Ansible Tower, Jenkins - Bank Of America, Amdocs, Wellsfargo (Multiple batches)</b>
 - Advanced CI/CD - RedHat OpenShift & TekTon for IBM, Bank of America (Multiple batches)
-- Red Hat OpenShift, Kubernetes and Docker for Bank of America (Multiple batches)
+- <b>Red Hat OpenShift, Kubernetes and Docker for Bank of America (Multiple batches)</b>
 - Azure Solution Architect (Multiple batches) for Amdocs, IBM
 - AWS Solution Architect (Multiple batches) for Amdocs, IBM
 - Advanced Chef Training ( Multiple batches ) for GAP 
