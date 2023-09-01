@@ -81,7 +81,6 @@ Post Graduate Diploma in Computer Applications
   - Pondicherry University, India
   - Graduated with Academic Honors (First Class), 
   - in the year 1997
-
   
 Bachelor of Physics 
   - Arignar Anna Govt Arts College 
