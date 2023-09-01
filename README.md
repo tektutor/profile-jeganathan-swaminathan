@@ -114,6 +114,7 @@ Bachelor of Physics
 - Container Orchestration Platforms - Docker SWARM, Kubernetes, Red Hat OpenShift
 - Configuration Management Tools - Puppet, Chef, Ansible, Salt/SaltStack
 - CI/CD - Jenkins, CloudBees, XLR/XLD
+- Operating Systems - Unix, Linux, Mac & Windows
 </pre>
 
 ## Trainings Conducted
