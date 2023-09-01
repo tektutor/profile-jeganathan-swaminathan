@@ -8,6 +8,9 @@
 - mail2jegan@gmail.com 
 </pre>
 
+## GitHub
+https://github.com/tektutor
+
 ## LinkedIn Profile
 https://in.linkedin.com/in/jeganathan-swaminathan-2a6a6a6 
 
