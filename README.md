@@ -126,6 +126,8 @@ Bachelor of Physics
 - Advanced Chef Training ( Multiple batches ) for GAP 
 - AZ303 - Azure Solution Architect for IBM, India 
 - Qt/QML GUI Programming with Python for Bosch, Bengaluru
+- Clean Code Practices for Amdocs - Pune/Gurugam/Cyprus/Penang/Israel (Multiple batches)
+- Secure Code Practices for Amdocs - Pune/Gurugam/Cyprus/Penang/Israel (Multiple batches)
 - <b>DevOps - Docker, Kubernetes, Ansible/Ansible Tower, Terraform for IBM, US</b>
 - DevOps - Docker, Ansible Tower, Jenkins, Git/GitHub, XebiaLabs XLR & XLD for Bank of America, India 
 - DevOps - Ansible Tower, Horizon, Jenkins for Wellsfargo, India 
