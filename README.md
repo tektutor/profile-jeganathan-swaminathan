@@ -1,5 +1,4 @@
 ## Jeganathan Swaminathan
-![Profile Picture|20%](profile-photo.jpeg)
 <pre>
 - Total 23 years of hands-on Software Development Experience 
 - 11 years of Independent Software Consulting/Training Experience
@@ -118,6 +117,7 @@ Bachelor of Physics
 
 ## Trainings Conducted
 <pre>
+- <b>Advanced Puppet - HSBC - India, China & US</b>
 - <b>Advanced Ansible - Ansible Core, Red Hat Ansible Tower - Bank Of America, Amdocs, Wellsfargo (Multiple batches)</b>
 - <b>Advanced CI/CD - RedHat OpenShift & TekTon for IBM, Bank of America (Multiple batches)</b>
 - <b>Red Hat OpenShift, Kubernetes and Docker for Bank of America (Multiple batches)</b>
