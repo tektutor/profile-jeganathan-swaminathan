@@ -104,7 +104,7 @@ Bachelor of Physics
 - Debug Tools - GDB
 - Programming Languages - Java,Python,C#,Scala,Go lang,NodeJS,AngularJS,TypeScript,C/C++ & Visual C++(MFC)
 - Testing Frameworks - JUnit/TestNG,NUnit,Moq,Mockito,PowerMock,Google Test, Google Mock, Jasmine/Karma & PyTest
-- TDD/BDD - Java,C/C++,C#,Python & Go lang
+- TDD/BDD - Java,C/C++,Ruby, C#,Python & Go lang
 - GUI Frameworks - Qt/QML, Gtk
 - Embedded - C/C++, Python
 - Containers - Docker, Podman, Containerd, LXC, runC
@@ -119,6 +119,7 @@ Bachelor of Physics
 - <b>Advanced Puppet - HSBC - India & China</b>
 - <b>Advanced Chef - Tesco - Bengaluru</b>
 - <b>Advanced Ansible - Ansible Core, Red Hat Ansible Tower - Bank Of America, Amdocs, Wellsfargo (Multiple batches)</b>
+- Advanced Qt 3D Programming - Mahindra, Coimbatore
 - <b>Advanced CI/CD - RedHat OpenShift & TekTon for IBM, Bank of America (Multiple batches)</b>
 - <b>Red Hat OpenShift, Kubernetes and Docker for Bank of America (Multiple batches)</b>
 - Azure Solution Architect (Multiple batches) for Amdocs, IBM
