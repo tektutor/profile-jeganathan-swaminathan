@@ -138,6 +138,7 @@ Bachelor of Physics
 - Unit Testing Automation with JUnit, Karate & Mockito Frameworks multiple batches for Amdocs 
 - Web development - ReactJS, Redux, JavaScript, HTML & CSS for Amdocs, Pune. Gurgaon, Cyprus (Multiple Batches) 
 - Apache Spark with Azure Databricks for Orange, Gurgaon
+- Advanced Gtk - IBM, Bengaluru (Multiple Batches)
 - Apache Spark with AWS Databricks for Amdocs 
 - DevOps with Ansible & Docker for Sapient, BMC & Orange
 - DevOps with Ansible, Docker, Kubernetes for Amdocs, Pune
