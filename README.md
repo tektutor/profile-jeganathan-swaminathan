@@ -119,12 +119,12 @@ Bachelor of Physics
 ## Trainings Conducted
 <pre>
 - <b>Advanced Devops - Motorola Solutions, Malaysia</b>
-- <b>Advanced Puppet - HSBC - India & China</b>
-- <b>Advanced Chef - Tesco - Bengaluru</b>
-- <b>Advanced Ansible - Ansible Core, Red Hat Ansible Tower - Bank Of America, Amdocs, Wellsfargo (Multiple batches)</b>
-- Advanced Qt 3D Programming - Mahindra, Coimbatore
-- <b>Advanced CI/CD - RedHat OpenShift & TekTon for IBM, Bank of America (Multiple batches)</b>
-- <b>Red Hat OpenShift, Kubernetes and Docker for Bank of America (Multiple batches)</b>
+- Advanced Puppet - HSBC - India & China
+- Advanced Chef - Tesco - Bengaluru
+- Advanced Ansible - Ansible Core, Red Hat Ansible Tower - Bank Of America, Amdocs, Wellsfargo (Multiple batches)
+- <b>Advanced C++,Qt, QML & Qt 3D Programming - Mahindra, Coimbatore</b>
+- Advanced CI/CD - RedHat OpenShift & TekTon for IBM, Bank of America (Multiple batches)
+- Red Hat OpenShift, Kubernetes and Docker for Bank of America (Multiple batches)
 - Azure Solution Architect (Multiple batches) for Amdocs, IBM
 - AWS Solution Architect (Multiple batches) for Amdocs, IBM
 - Advanced Chef Training ( Multiple batches ) for GAP 
@@ -132,7 +132,7 @@ Bachelor of Physics
 - Qt/QML GUI Programming with Python for Bosch, Bengaluru
 - Clean Code Practices for Amdocs - Pune/Gurugam/Cyprus/Penang/Israel (Multiple batches)
 - Secure Code Practices for Amdocs - Pune/Gurugam/Cyprus/Penang/Israel (Multiple batches)
-- <b>DevOps - Docker, Kubernetes, Ansible/Ansible Tower, Terraform for IBM, US</b>
+- DevOps - Docker, Kubernetes, Ansible/Ansible Tower, Terraform for IBM, US
 - DevOps - Docker, Ansible Tower, Jenkins, Git/GitHub, XebiaLabs XLR & XLD for Bank of America, India 
 - DevOps - Ansible Tower, Horizon, Jenkins for Wellsfargo, India 
 - <b>MicroServices using SpringBoot for Amdocs, Pune, Gurgaon & Cyprus (Multiple batches)</b>
@@ -159,12 +159,12 @@ Bachelor of Physics
 - Refactoring training for Amdocs, Gurgaon. 
 - Design Patterns training for Amdocs, Gurgaon/Pune
 - Qt/QML GUI Programming with C++ for KPIT, Bangalore/Pune (Multiple batches) 
-- Advanced C, POSIX, GDB Debugging Training for Cisco, Bangalore
-- Advanced C++ - Qt Programming with Raspberry Pi for KPIT, Bangalore
-- Unix Internals Training for KPIT, Bangalore. 
-- Advanced C++ Training for Philips (TPVision), Bangalore. 
+- <b>Advanced C, POSIX, GDB Debugging Training for Cisco, Bangalore</b>
+- <b>Advanced C++ - Qt Programming with Raspberry Pi for KPIT, Bangalore
+- Unix Internals Training for KPIT, Bangalore.</b>
+- <b>Advanced C++ Training for Philips (TPVision), Bangalore.</b>
 - Java Design Patterns for Philips, Bangalore. 
 - POSIX – Multi-thread Programming Training for Philips (TPVision), Bangalore
-- QtQuick & QML Training for CMC, Hyderabad 
+- <b>C++, QtQuick & QML Training for CMC, Hyderabad</b>
 - Linux Device Drivers Training for SpringPeople, Bangalore. 
 </pre>
