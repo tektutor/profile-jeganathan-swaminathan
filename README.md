@@ -109,13 +109,16 @@ Bachelor of Physics
 - Embedded - C/C++, Python
 - Containers - Docker, Podman, Containerd, LXC, runC
 - Container Orchestration Platforms - Docker SWARM, Kubernetes, Red Hat OpenShift
-- Configuration Management Tools - Puppet, Chef, Ansible, Salt/SaltStack
+- Configuration Management Tools - Puppet, Chef & Ansible
 - CI/CD - Jenkins, CloudBees, XLR/XLD
 - Operating Systems - Unix, Linux, Mac & Windows
+- Performance - JMeter, Prometheus, Grafana
+- Logging - Elastic Search, Logstash/Fluentd & Kibana
 </pre>
 
 ## Trainings Conducted
 <pre>
+- <b>Advanced Devops - Motorola Solutions, Malaysia</b>
 - <b>Advanced Puppet - HSBC - India & China</b>
 - <b>Advanced Chef - Tesco - Bengaluru</b>
 - <b>Advanced Ansible - Ansible Core, Red Hat Ansible Tower - Bank Of America, Amdocs, Wellsfargo (Multiple batches)</b>
