@@ -1,4 +1,6 @@
 ## Jeganathan Swaminathan
+![Profile Photo](profile.png)
+
 <pre>
 - Total 24 years of IT Industry Experience 
 - 12 years of Independent Software Consulting/Training Experience
