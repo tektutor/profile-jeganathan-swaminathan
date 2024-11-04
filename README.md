@@ -1,5 +1,5 @@
 ## Jeganathan Swaminathan
-![Profile Photo](profile-photo.png)
+![Profile Photo](profile-photo.jpeg)
 
 <pre>
 - Total 24 years of IT Industry Experience 
