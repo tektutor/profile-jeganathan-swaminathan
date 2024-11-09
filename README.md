@@ -118,6 +118,15 @@ Bachelor of Physics
 - Logging - Elastic Search, Logstash/Fluentd & Kibana
 </pre>
 
+## Software Consulting Services offered
+<pre>
+- Containers - Docker & Podman
+- Container Orchestration Platforms - Kubernetes & Openshift
+- Architecture - Monolithic & Microservices
+- Languages - C++, Java, NodeJS & Python
+- OS - Linux
+</pre>
+
 ## Trainings Conducted
 <pre>
 - <b>Advanced Devops - Motorola Solutions, Malaysia</b>
