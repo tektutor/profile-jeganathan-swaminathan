@@ -1,9 +1,7 @@
 ## Jeganathan Swaminathan
-![Profile Photo](profile-photo.jpeg)
-
 <pre>
-- Total 24 years of IT Industry Experience 
-- 12 years of Independent Software Consulting/Training Experience
+- Overall 25 years of IT Industry Experience 
+- 13 years of Independent Software Consulting/Training Experience
 - +91 822-000-5626 (WhatsApp) 
 - jegan@tektutor.org 
 </pre>
@@ -104,7 +102,7 @@ Bachelor of Physics
 - Version Control - Git/GitHub
 - Build Tools - Make, Maven & Gradle
 - Debug Tools - GDB
-- Programming Languages - Java,Python,C#,Scala,Go lang,NodeJS,AngularJS,TypeScript,C/C++ & Visual C++(MFC)
+- Programming Languages - Java,Python,C#,Scala,Golang(Go),NodeJS,AngularJS,TypeScript,C/C++ & Visual C++(MFC)
 - Testing Frameworks - JUnit/TestNG,NUnit,Moq,Mockito,PowerMock,Google Test, Google Mock, Jasmine/Karma & PyTest
 - TDD/BDD - Java,C/C++,Ruby, C#,Python & Go lang
 - GUI Frameworks - Qt/QML, Gtk
@@ -123,12 +121,17 @@ Bachelor of Physics
 - Containers - Docker & Podman
 - Container Orchestration Platforms - Kubernetes & Openshift
 - Architecture - Monolithic & Microservices
-- Languages - C++, Java, NodeJS & Python
+- Languages - C++, Java, Golang, NodeJS & Python
 - OS - Linux
 </pre>
 
 ## Trainings Conducted
 <pre>
+- Advanced Kubernetes - EverNorth
+- Advanced Red Hat Openshift - Wellsfargo (Multiple batches)
+- DevOps with Tekton CI/CD on Red Hat Openshift - IBM (Multiple batches )
+- Developing Microservices in Golang - Amdocs (Multiple batches)
+- Developing Terraform providers in Golang - Bank of America (Multiple batches)
 - <b>Advanced Devops - Motorola Solutions, Malaysia</b>
 - Advanced Puppet - HSBC - India & China
 - Advanced Chef - Tesco - Bengaluru
